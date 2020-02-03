@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Player Laser
+  - Meteor
+  - Fuel Station
+  - Base Station
+  - Black Hole
+  - Enemy Laser
   layers:
   - Default
   - TransparentFX
