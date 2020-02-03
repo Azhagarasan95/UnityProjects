@@ -1,0 +1,7 @@
+Player is a Space warrior.
+His job is to help people in space.
+He will get distress calls (missions) and accept to help them.
+
+
+Reaching the distress call location is a space shooter type navigation.
+Once reached the place, player has to fight any aliens and help the people from them.
